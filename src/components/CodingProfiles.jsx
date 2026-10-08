@@ -12,7 +12,7 @@ const CodingProfiles = () => {
       platform: 'LeetCode',
       username: 'mowli',
       stats: {
-        problems: '500+',
+        problems: '100+',
         rating: '1850',
         badge: 'Expert',
       },
