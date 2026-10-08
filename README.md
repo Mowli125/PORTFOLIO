@@ -9,7 +9,6 @@ A stunning, highly interactive, dark-themed personal portfolio website built wit
 - **🌐 3D Graphics** - Three.js for interactive 3D elements and models
 - **✨ Particle Effects** - Interactive particle backgrounds using Particles.js
 - **📱 Fully Responsive** - Optimized for mobile, tablet, and desktop
-- **🎯 Custom Cursor** - Interactive custom cursor with hover effects
 - **💼 Project Showcase** - Beautiful project cards with 3D hover effects
 - **📧 Contact Form** - EmailJS integration for contact form
 - **🔗 Social Links** - Animated social media links
